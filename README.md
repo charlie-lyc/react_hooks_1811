@@ -1,7 +1,7 @@
 # React Hooks
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br />
-Learning 'Hooks' with building simple app.
+Learning [Hooks](https://reactjs.org/docs/hooks-intro.html) with building simple app.
 
 
 ## Todo List
