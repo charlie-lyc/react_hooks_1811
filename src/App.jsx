@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react'
+// import React from 'react'
+import { useState, useEffect } from 'react'
 import TodoList from './components/TodoList'
 import AddTodo from './components/AddTodo'
 import { v4 as uuidv4 } from 'uuid'
